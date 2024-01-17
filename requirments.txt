@@ -1,0 +1,8 @@
+streamlit
+google-generativeai
+python-dotenv
+speechrecognition
+wikipedia
+openai
+python-dotenv
+pyspellchecker

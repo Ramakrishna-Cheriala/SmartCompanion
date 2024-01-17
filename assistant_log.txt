@@ -1,0 +1,17 @@
+2024-01-17 14:01:05,398 - INFO - Opening video player app
+2024-01-17 16:18:34,486 - INFO - Opening google
+2024-01-17 16:24:09,576 - INFO - Opening vs code app
+2024-01-17 16:28:12,080 - INFO - Opening google
+2024-01-17 16:36:26,726 - INFO - The current time is 16:36
+2024-01-17 16:51:53,254 - INFO - Searching on Google: about worldcup
+2024-01-17 16:52:56,117 - INFO - Searching on YouTube: about datascience
+2024-01-17 17:02:18,430 - INFO - Searching on Google: search mobiles
+2024-01-17 17:08:31,229 - INFO - Searching on Google: google search mobiles
+2024-01-17 17:10:49,466 - INFO - Searching on YouTube: pubg
+2024-01-17 17:18:29,252 - INFO - Searching on Google: on mobiles
+2024-01-17 17:19:54,412 - INFO - Searching on Google: mobiles
+2024-01-17 18:01:56,325 - INFO - The current temperaute in hyderabad is 28.0 celsius
+2024-01-17 18:03:02,523 - INFO - The current temperature in hyderabad is 28.0 celsius
+2024-01-17 18:04:12,822 - INFO - The current temperature in chennai is 27.0 celsius
+2024-01-17 19:27:59,427 - INFO - The current temperature in india is 14.0 celsius
+2024-01-17 19:32:19,523 - INFO - The current temperature in india is 14.0 celsius
