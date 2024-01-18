@@ -6,3 +6,4 @@ wikipedia
 openai
 python-dotenv
 pyspellchecker
+tensorflow

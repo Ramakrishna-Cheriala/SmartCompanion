@@ -186,6 +186,23 @@ intents = {
             "Here's the website you want to open!",
         ],
     },
+    "open-ai": {
+        "patterns": [
+            "using open ai",
+            "using chai gpt",
+            "using chat ai",
+            "using ai",
+            "ask ai",
+            "ask chat gpt",
+            "ask open ai",
+            "ask",
+        ],
+        "responses": [
+            "Sure, wait a moment",
+            "Here's the answer for your question",
+            "Wait a moment",
+        ],
+    },
     "open-apps": {
         "patterns": [
             "open vs code app",

@@ -17,6 +17,7 @@ import re
 from nltk.corpus import stopwords
 import spacy
 import requests
+import json
 
 
 speaker = win32com.client.Dispatch("SAPI.SpVoice")
@@ -76,3 +77,11 @@ def remove_specific_words(text, specific_words):
     words = nltk.word_tokenize(text)
     filtered_words = [word for word in words if word.lower() not in specific_words]
     return " ".join(filtered_words)
+
+
+def update_conversation_history(
+    user_input, ai_response, conversation_history, conversation_history_file
+):
+    conversation_history.append({"user_input": user_input, "ai_response": ai_response})
+    with open(conversation_history_file, "w") as file:
+        json.dump(conversation_history, file)
